@@ -8,3 +8,4 @@ Pada bagian akhir, halaman dilengkapi footer berupa tautan media sosial menuju G
 tautan terbuka di tab baru.
 
 
+<img width="1279" height="719" alt="Screenshot 2026-01-31 174433" src="https://github.com/user-attachments/assets/4d57ce84-d5c8-48e4-8184-e629aa9e96d8" />
